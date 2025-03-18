@@ -61,7 +61,7 @@ This study highlighted opportunities for improvement, including using larger dat
 
 - **Author:** Yacine Benhamed
 - **University:** University of Manchester
-- **Email:** [Your email address]
+- **Email:** yacinebenhamed@yahoo.co.uk
 
 ## Acknowledgements
 
